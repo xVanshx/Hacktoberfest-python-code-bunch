@@ -1,4 +1,4 @@
-import smtplib
+
 print("Welcome Sir/Mam to our cafe")
 # all variables
 server = smtplib.SMTP_SSL("smtp.gmail.com", 465)
